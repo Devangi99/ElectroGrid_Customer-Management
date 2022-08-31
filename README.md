@@ -1,12 +1,8 @@
 # ElectroGrid_Customer-Management
-The Electro-Grid Company is a power company that manages the power grid of the country. This is 
-a Java-RS based back end system that focuses on helping Electro-Grid manage their services.
+This is a group project done for the module 'Programming Applications & Frameworks' in 1st semester of 3rd year. The Electro-Grid Company is a power company that manages the power grid of the country. This focuses on helping Electro-Grid manage their services. This system contains six different services. They are: Customer management service, Emergency service management service, Payment management service, Bill management service, Solar panel 
+power management service and Notification management service.
 
-## Customer Management
-Customer Management Service allows users to register to the ElectroGrid system by 
-entering their details. Users can update the previously entered details as well. All the details of 
-registered customers can be viewed by the service. Registered customers can be removed from 
-the system by deleting their details.
+## Customer Management Service (Individual part)
 
 ### Flow chart
 ![](images/CustomerManagement_FlowChart.png)
@@ -26,20 +22,18 @@ the system by deleting their details.
 ### ER diagram
 ![](images/CustomerManagement_ERDiagram.png)
 
-### Add customer
+### Allows users to register to the ElectroGrid system by entering their details.
 ![](images/POST.png)
 
-### Update customer
+### Users can update the previously entered details as well.
 ![](images/PUT.png)
 
-### Delete customer
-![](images/DEL.png)
-
-### Read all customers
+### All the details of registered customers can be viewed by the service.
 ![](images/GET.png)
-
-### View all customers in Eclipse
 ![](images/Eclipse.png)
+
+### Registered customers can be removed from the system by deleting their details.
+![](images/DEL.png)
 
 ### Customer database
 ![](images/DB.png)

@@ -8,11 +8,11 @@ entering their details. Users can update the previously entered details as well.
 registered customers can be viewed by the service. Registered customers can be removed from 
 the system by deleting their details.
 
-## Tools & Technologies
-Backend Java – JAX-RS (Jersey)
-Database MySQL
-DBMS phpMyAdmin
-Server Apache Tomcat server version 09
-Dependency Management Tool Maven
-IDE Eclipse IDE Enterprise Edition
-Testing tool Postman as the client side testing tool
+## Tools & technologies
+- Backend - Java/JAX-RS (Jersey)
+- Database - MySQL
+- DBMS - phpMyAdmin
+- Server - Apache Tomcat server version 09
+- Dependency Management Tool - Maven
+- IDE - Eclipse IDE Enterprise Edition
+- Testing tool - Postman as the client side testing tool

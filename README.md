@@ -9,6 +9,7 @@ registered customers can be viewed by the service. Registered customers can be r
 the system by deleting their details.
 
 ### Flow chart
+![](images/CustomerManagement_FlowChart.png)
 ### API of the service
 ### Class diagram
 ### Activity diagram

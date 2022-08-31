@@ -10,11 +10,22 @@ the system by deleting their details.
 
 ### Flow chart
 ![](images/CustomerManagement_FlowChart.png)
+
 ### API of the service
+![](images/CustomerManagement_API.png)
+
 ### Class diagram
+![](images/CustomerManagement_ClassDiagram.png)
+
 ### Activity diagram
+![](images/CustomerManagement_ActivityDiagram.png)
+
 ### Sequence diagram
+![](images/CustomerManagement_SequenceDiagram.png)
+
 ### ER diagram
+![](images/CustomerManagement_ERDiagram.png)
+
 ### Add customer
 ### Update customer
 ### Delete customer

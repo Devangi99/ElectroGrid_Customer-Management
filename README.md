@@ -27,11 +27,22 @@ the system by deleting their details.
 ![](images/CustomerManagement_ERDiagram.png)
 
 ### Add customer
+![](images/POST.png)
+
 ### Update customer
+![](images/PUT.png)
+
 ### Delete customer
+![](images/DEL.png)
+
 ### Read all customers
+![](images/GET.png)
+
 ### View all customers in Eclipse
+![](images/Eclipse.png)
+
 ### Customer database
+![](images/DB.png)
 
 
 ## Tools & technologies

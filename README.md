@@ -8,6 +8,20 @@ entering their details. Users can update the previously entered details as well.
 registered customers can be viewed by the service. Registered customers can be removed from 
 the system by deleting their details.
 
+### Flow chart
+### API of the service
+### Class diagram
+### Activity diagram
+### Sequence diagram
+### ER diagram
+### Add customer
+### Update customer
+### Delete customer
+### Read all customers
+### View all customers in Eclipse
+### Customer database
+
+
 ## Tools & technologies
 - Backend - Java/JAX-RS (Jersey)
 - Database - MySQL
